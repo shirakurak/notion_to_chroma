@@ -16,3 +16,9 @@ pip install \
   google-cloud-aiplatform \
   vertexai
 ```
+
+## 手順
+
+1. `chroma_db` ディレクトリを GCS にアップロードする
+2. aaa
+3. bbb
