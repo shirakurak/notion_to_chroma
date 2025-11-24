@@ -25,3 +25,13 @@ pip install \
 1. `chroma_db` ディレクトリを GCS にアップロードする
 2. aaa
 3. bbb
+
+## 呼び出し方
+
+```sh
+python index_notion_to_chroma.py --page-id abc1234efg
+```
+
+```sh
+python judge_impact_local.py --message "変更内容"
+```
